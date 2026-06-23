@@ -7,4 +7,26 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="src\Application\DTOs\" />
+    <Folder Include="src\Application\Services\" />
+    <Folder Include="src\Domain\Entities\" />
+    <Folder Include="src\Domain\Enums\" />
+    <Folder Include="src\Domain\Events\" />
+    <Folder Include="src\Domain\Interfaces\" />
+    <Folder Include="src\Infrastructure\Data\" />
+    <Folder Include="src\Infrastructure\Services\" />
+    <Folder Include="src\Presentation\Menus\" />
+    <Folder Include="tests\Domain.Tests\" />
+    <Folder Include="tests\Application.Tests\" />
+    <Folder Include="tests\Infrastructure.Tests\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="src\application\Application.csproj" />
+    <None Include="src\domain\Domain.csproj" />
+    <None Include="src\infrastructure\Infrastructure.csproj" />
+    <None Include="src\presentation\Presentation.csproj" />
+  </ItemGroup>
+
 </Project>
