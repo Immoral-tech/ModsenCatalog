@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModsenCatalog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1dffb4d6d908141c32dd60bb7e84b5f8dce0398")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cd3e90e100b764dfc13a2e3b041dc1eb0cbe05e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModsenCatalog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModsenCatalog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
