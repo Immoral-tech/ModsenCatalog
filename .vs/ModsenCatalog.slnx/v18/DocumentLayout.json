@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "src\\Domain\\Events\\CategoryDeletedEvent.cs",
               "ToolTip": "D:\\Projects\\.Net\\ModsenCatalog\\src\\Domain\\Events\\CategoryDeletedEvent.cs",
               "RelativeToolTip": "src\\Domain\\Events\\CategoryDeletedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-25T09:30:47.166Z",
               "EditorCaption": ""
@@ -95,8 +95,7 @@
               "RelativeToolTip": "src\\Domain\\Events\\UserLoggedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T09:29:10.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T09:29:10.678Z"
             },
             {
               "$type": "Document",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "src\\Domain\\Events\\UserRoleChangedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T09:24:14.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T09:24:14.804Z"
             },
             {
               "$type": "Document",
@@ -121,8 +119,7 @@
               "RelativeToolTip": "src\\Domain\\Events\\ReviewDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T09:22:39.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T09:22:39.39Z"
             },
             {
               "$type": "Document",
@@ -134,8 +131,7 @@
               "RelativeToolTip": "src\\Domain\\Events\\ReviewAddedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T09:19:35.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T09:19:35.91Z"
             },
             {
               "$type": "Document",
@@ -147,8 +143,7 @@
               "RelativeToolTip": "src\\Domain\\Events\\ProductDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T09:17:11.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T09:17:11.997Z"
             },
             {
               "$type": "Document",
@@ -160,21 +155,19 @@
               "RelativeToolTip": "src\\Domain\\Events\\PriceChangedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T09:15:23.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T09:15:23.325Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ModsenCatalog",
+              "Title": "ModsenCatalog.csproj",
               "DocumentMoniker": "D:\\Projects\\.Net\\ModsenCatalog\\ModsenCatalog.csproj",
               "RelativeDocumentMoniker": "ModsenCatalog.csproj",
               "ToolTip": "D:\\Projects\\.Net\\ModsenCatalog\\ModsenCatalog.csproj",
               "RelativeToolTip": "ModsenCatalog.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-25T09:13:44.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T09:13:44.414Z"
             },
             {
               "$type": "Document",
@@ -186,8 +179,7 @@
               "RelativeToolTip": "src\\Domain\\Entities\\PriceHistory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T09:05:40.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T09:05:40.646Z"
             },
             {
               "$type": "Document",
@@ -199,8 +191,7 @@
               "RelativeToolTip": "src\\Domain\\Entities\\Review.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T11:26:02.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-24T11:26:02.154Z"
             },
             {
               "$type": "Document",
@@ -212,8 +203,7 @@
               "RelativeToolTip": "src\\Domain\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T11:12:57.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-24T11:12:57.951Z"
             },
             {
               "$type": "Document",
@@ -225,8 +215,7 @@
               "RelativeToolTip": "src\\Domain\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T11:11:02.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-24T11:11:02.958Z"
             },
             {
               "$type": "Document",
@@ -250,8 +239,7 @@
               "RelativeToolTip": "src\\Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T12:59:31.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T12:59:31.753Z"
             },
             {
               "$type": "Document",
